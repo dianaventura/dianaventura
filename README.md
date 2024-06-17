@@ -1,6 +1,6 @@
 ### Hi there! My name is Diana Ventura👋
 
-Welcome to my GitHub profile! My number one hobby is to play and this tends to appear in my projects!🌸✨
+My number one hobby is to play and this tends to appear in my projects!🌸✨
 
 - 🔭 Since graduating I'm currently working ... on my blog - The Vagabond Scholar! A space where I can share what I'm learning as I go.
 - 🌱 I’m currently learning ... everything my degree didn't cover (ALOT of gaps to fill😄). Right now my main interests are Computational Lingustics and LLMS.
