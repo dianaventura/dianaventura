@@ -1,5 +1,12 @@
 ### Hi there! My name is Diana Ventura👋
 
+Welcome to my GitHub profile! My number one hobby is to play and this tends to appear in my projects!🌸✨
+
+- 🔭 Since graduating I'm currently working ... on my blog - The Vagabond Scholar! A space where I can share what I'm learning as I go.
+- 🌱 I’m currently learning ... everything my degree didn't cover (ALOT of gaps to fill😄). Right now my main interests are Computational Lingustics and LLMS.
+- 🤔 I’m always looking for help with content ideas! The best way to reach me is through [LinkedIn!](https://www.linkedin.com/in/diana-ventura-v/).
+- ⚡ Fun fact: I cycle to work every day, no matter the weather! I've recently joined Love to Ride and I'm super passionate about riding with others. If you'd like to join me in the biking challenge, you can register here: [Join me in the biking challenge on Love to Ride!](https://www.lovetoride.net/abz?ic=eab04e9a&locale=en-GB)
+
 <!--
 **dianaventura/dianaventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
