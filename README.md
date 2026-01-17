@@ -3,7 +3,7 @@
 Welcomne to my github!🌸✨
 
 - 🔭 Since graduating I am working as Software Engineer at Fennex Ltd
-- 🌱 Right now my main interests are Creativity and AI Colaboration.
+- 🌱 Right now my main interests are App Development.
 - 🤔 I’m always looking for help with content ideas! The best way to reach me is through [LinkedIn!](https://www.linkedin.com/in/diana-ventura-v/).
 
 <!--
